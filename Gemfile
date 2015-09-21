@@ -10,7 +10,7 @@ gem 'bootstrap-sass'
 gem 'devise', '~> 3.5.2'
 gem 'paperclip', '~> 4.3'
 gem 'masonry-rails', '~> 0.2.4'
-gem 'aws-sdk', '~> 2.1.23'
+gem 'aws-sdk', '~> 1'
 
 group :development, :test do
 	gem 'sqlite3'
